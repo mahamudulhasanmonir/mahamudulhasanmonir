@@ -20,7 +20,7 @@ Skills: HTML / CSS / BOOTSTRAP / VUE JS / JS /  PHP / MYSQL / PYTHON
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahamudulhasanmonir)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudulhasanmonir)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahamudulhasanmonir&show_icons=true&count_private=true)  
 
@@ -29,5 +29,4 @@ Skills: HTML / CSS / BOOTSTRAP / VUE JS / JS /  PHP / MYSQL / PYTHON
 ![GitHub metrics](https://metrics.lecoq.io/mahamudulhasanmonir)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mahamudulhasanmonir)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
