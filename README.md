@@ -5,7 +5,6 @@
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mahamudulhasanmonir/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/mahamudulhasanmonir)  
 
 ![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahamudulhasanmonir&show_icons=true&theme=radical)
 
