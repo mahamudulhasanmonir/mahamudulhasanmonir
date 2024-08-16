@@ -29,4 +29,5 @@ Skills: HTML / CSS / BOOTSTRAP / VUE JS / JS /  PHP / MYSQL / PYTHON
 ![GitHub metrics](https://metrics.lecoq.io/mahamudulhasanmonir)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mahamudulhasanmonir)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
