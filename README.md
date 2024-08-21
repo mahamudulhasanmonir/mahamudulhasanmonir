@@ -11,8 +11,6 @@ I’m a Front & Backend Web developer who is passionate about making error-free 
 <p align="left"> <a href="https://x.com/mahamudul05" target="blank"><img src="https://img.shields.io/twitter/follow/mahamudulhasanmonir?logo=twitter&style=for-the-badge" alt="mahamudulhasanmonir" /></a> </p>
 
 
-Skills: HTML / CSS / BOOTSTRAP / VUE JS / JS /  PHP / MYSQL / PYTHON
-
 - 🔭 I’m currently working on [Project RS Team](ewpt.ractstudio.com) & Youtube
 
 - 🌱 I’m currently learning **Python, Vue JS, React , Node**
@@ -38,24 +36,12 @@ Skills: HTML / CSS / BOOTSTRAP / VUE JS / JS /  PHP / MYSQL / PYTHON
 
 <p align="left">
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-    <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
     <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
     <img src="https://img.shields.io/badge/AdobePhotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
     <img src="https://img.shields.io/badge/AdobeXD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-    <img src="https://img.shields.io/badge/React%20Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
-    <img src="https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
-    <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-    <img src="https://img.shields.io/badge/Confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
-    <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-    <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
 </p>
 <br>
 
