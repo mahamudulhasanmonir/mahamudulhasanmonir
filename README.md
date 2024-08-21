@@ -35,13 +35,19 @@ I’m a Front & Backend Web developer who is passionate about making error-free 
 ## 💻 Tech Stack
 
 <p align="left">
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
     <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
     <img src="https://img.shields.io/badge/AdobePhotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
+    <img src="https://img.shields.io/badge/ADOBE%20ILLUSTRATOR-%23FF9A00?style=for-the-badge&logo=adobeillustrator&labelColor=white" alt="Adobe Illustrator"/>
     <img src="https://img.shields.io/badge/AdobeXD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
+    <img src="https://img.shields.io/badge/PREMIERE%20PRO-%239999FF?style=for-the-badge&logo=adobepremierepro&labelColor=white" alt="Premiere Pro"/>
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+    <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuedotjs&labelColor=white" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/ALMA%20Linux-%23000000?style=for-the-badge&logo=almalinux&labelColor=blue" alt="Linux"/>
+    
 </p>
 <br>
 
