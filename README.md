@@ -63,4 +63,5 @@ I’m a Front & Backend Web developer who is passionate about making error-free 
 
 <br>
 
-![snake gif](https://github.com/mahamudulhasanmonir/mahamudulhasanmonir/blob/output/github-contribution-grid-snake.svg)
+<!--- Snake Animation -->
+![snake gif](https://github.com/mahamudulhasanmonir/mahamudulhasanmonir/blob/output/github-snake-dark.svg)
