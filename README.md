@@ -42,14 +42,6 @@
 <!--- Snake Animation -->
 ![snake gif](https://github.com/mahamudulhasanmonir/mahamudulhasanmonir/blob/output/github-snake-dark.svg)
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<a href="https://github.com/mahamudulhasanmonir">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahamudulhasanmonir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahamudulhasanmonir&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ## 🤝🏻 &nbsp;Connect with Me
 
@@ -62,6 +54,16 @@
     <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
     <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
+<br>
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/mahamudulhasanmonir">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahamudulhasanmonir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahamudulhasanmonir&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 
 
