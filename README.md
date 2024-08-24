@@ -46,16 +46,16 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-    <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-    <a href="https://stackoverflow.com/" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/></a>
-    <a href="https://www.tiktok.com/" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-    <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+    <a href="https://www.instagram.com/mahamudul_hasan_monir" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.linkedin.com/mahamuduldev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://medium.com/mahamudulhasan" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+    <a href="https://stackoverflow.com/mahamudulhasan" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/></a>
+    <a href="https://www.tiktok.com/rstatusvideo" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+    <a href="https://x.com/Mahamudul05" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="https://www.youtube.com/mahamudulhasasnmonir" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 <br>
-## ⚙️ GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 <br>
 <p align="left">
 <a href="https://github.com/mahamudulhasanmonir">
