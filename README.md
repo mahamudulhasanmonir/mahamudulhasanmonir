@@ -55,7 +55,7 @@
     <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 <br>
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics
 <br>
 <p align="left">
 <a href="https://github.com/mahamudulhasanmonir">
