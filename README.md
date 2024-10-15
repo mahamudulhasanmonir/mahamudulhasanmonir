@@ -23,16 +23,16 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=white"/>
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+<!--  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+<!--  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<!---<img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
 <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-<img alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
+<img alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" /> -->
 <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/AdobePhotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img alt="Adobe Illustrator"src="https://img.shields.io/badge/ADOBE%20ILLUSTRATOR-%23FF9A00?style=for-the-badge&logo=adobeillustrator&labelColor=white"/>
-<img alt="Adobe XD" src="https://img.shields.io/badge/AdobeXD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
+<!-- <img alt="Adobe XD" src="https://img.shields.io/badge/AdobeXD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white"/ >--->
 <img alt="Premiere Pro" src="https://img.shields.io/badge/PREMIERE%20PRO-%239999FF?style=for-the-badge&logo=adobepremierepro&labelColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuedotjs&labelColor=white"/>
