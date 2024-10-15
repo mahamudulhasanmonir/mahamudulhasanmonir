@@ -31,12 +31,12 @@
 <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/AdobePhotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img alt="Adobe Illustrator"src="https://img.shields.io/badge/ADOBE%20ILLUSTRATOR-%23FF9A00?style=for-the-badge&logo=adobeillustrator&labelColor=white"/>
-<!-- <img alt="Adobe XD" src="https://img.shields.io/badge/AdobeXD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white"/ >--->
-<img alt="Premiere Pro" src="https://img.shields.io/badge/PREMIERE%20PRO-%239999FF?style=for-the-badge&logo=adobepremierepro&labelColor=white" />
+<!-- <img alt="Adobe Illustrator"src="https://img.shields.io/badge/ADOBE%20ILLUSTRATOR-%23FF9A00?style=for-the-badge&logo=adobeillustrator&labelColor=white"/> --->
+<!-- <img alt="Adobe XD" src="https://img.shields.io/badge/AdobeXD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white"/ > --->
+<!-- <img alt="Premiere Pro" src="https://img.shields.io/badge/PREMIERE%20PRO-%239999FF?style=for-the-badge&logo=adobepremierepro&labelColor=white" /> --->
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuedotjs&labelColor=white"/>
-<img alt="Linux" src="https://img.shields.io/badge/ALMA%20Linux-%23000000?style=for-the-badge&logo=almalinux&labelColor=blue"/>
+<!-- <img alt="Linux" src="https://img.shields.io/badge/ALMA%20Linux-%23000000?style=for-the-badge&logo=almalinux&labelColor=blue"/> --->
 </p>
 
 <!--- Snake Animation -->
