@@ -55,7 +55,8 @@
     <a href="https://www.youtube.com/mahamudulhasasnmonir" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 <br>
-## ⚙️ &nbsp;GitHub Analytics
+
+# 📊 GitHub Analytics Dashboard
 <br>
 <p align="left">
 <a href="https://github.com/mahamudulhasanmonir">
@@ -64,6 +65,23 @@
 </a>
 </p>
 
+
+
+<!-- 
+### ⚡ Dynamic Stats
+[![Mahamudul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahamudulhasanmonir&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/mahamudulhasanmonir)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mahamudulhasanmonir)](https://git.io/streak-stats)
+
+### 👨‍💻 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudulhasanmonir&layout=compact&theme=radical&hide_border=true)](https://github.com/mahamudulhasanmonir)
+--->
+### 🌟 Profile Metrics
+```text
+🏆 Total Contributions: 1,000+
+🚀 Open Source Projects: 20+
+📅 Daily Coding: 5+ hours
+🔥 Streak: 100+ days
 
 
 
