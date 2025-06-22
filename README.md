@@ -78,10 +78,10 @@
 --->
 ### 🌟 Profile Metrics
 ```text
-🏆 Total Contributions: 1,000+
-🚀 Open Source Projects: 20+
-📅 Daily Coding: 5+ hours
-🔥 Streak: 100+ days
+🏆 Total Contributions: 100+
+🚀 Open Source Projects: 10+
+📅 Daily Coding: 3-5 hours
+🔥 Streak: 10+ days
 
 
 
