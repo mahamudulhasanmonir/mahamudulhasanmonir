@@ -1,4 +1,4 @@
-![Mahamudul Hasan](https://res.cloudinary.com/dfbzzautx/image/upload/v1726295795/banner_for_portfolio_s_of5bjt.jpg)
+<img width="1992" height="640" alt="Github + LinkedIn BG image" src="https://github.com/user-attachments/assets/d330ffdd-34f8-4c86-9cc1-a83a8f688417" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there, I'm <a>Mahamudul Hasan</a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamudulhasanmonir&label=Profile%20views&color=0e75b6&style=flat" alt="mahamudulhasanmonir" /> </p>
