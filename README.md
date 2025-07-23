@@ -4,15 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamudulhasanmonir&label=Profile%20views&color=0e75b6&style=flat" alt="mahamudulhasanmonir" /> </p>
 
 
-- 🔭 I’m currently working on [Project RS Team](ewpt.ractstudio.com) & Youtube
+🎯 I’m currently working on [Project RS Team](ewpt.ractstudio.com) & Youtube
 
-- 🌱 I’m currently learning **Python, Vue JS, React , Node**
+💻 Aspiring Web Developer & WordPress Enthusiast  
+🌐 Exploring modern web technologies one step at a time  
+🧩 Currently learning full-stack fundamentals while building custom WordPress themes & plugins  
+📦 Familiar with WordPress ecosystem – from theme structures to plugin logic  
+🚀 Target: Become a confident WordPress Developer. 
+⚙️ Passionate about clean UI, optimized code & solving real-world problems  
+📚 Always learning | Always building | Always improving
 
-- 👯 I’m looking to collaborate on **Github**
-
-- 💬 Ask me about **Web Development, Wordpress**
-
-- 📫 How to reach me **mahamudulhasanmonir05@gmail.com**
+> "Build. Break. Learn. Repeat."
 
 
 ## 💻 &nbsp;Tech Stack
