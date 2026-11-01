@@ -1,7 +1,7 @@
 <!-- ========================= HERO ========================= -->
 <div align="center">
 <img width="1992" height="640" alt="Github + LinkedIn BG image" src="https://github.com/user-attachments/assets/d330ffdd-34f8-4c86-9cc1-a83a8f688417" />
-<!-- <img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&section=header&text=Mahamudul%20Hasan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=WordPress%20Developer%20%C2%B7%20Web%20Craftsman%20%C2%B7%20Lifelong%20Learner&descSize=16&descAlignY=58&animation=fadeIn" /> -->
+<!-- <img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&section=header&text=Mahamudul%20Hasan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=WordPress%20Developer%20%C2%B7%20Web%20Craftsman%20%C2%B7%20Lifelong%20Learner&descSize=16&descAlignY=58&animation=fadeIn" /> --->
 
 <a href="https://github.com/mahamudulhasanmonir">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=600&height=40&lines=%3E+Build.+Break.+Learn.+Repeat.;%3E+Crafting+custom+WordPress+themes+%26+plugins;%3E+Clean+UI.+Optimized+code.+Real+solutions." alt="Typing animation" />
